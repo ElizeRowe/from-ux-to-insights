@@ -10,7 +10,7 @@ A 12-week, self-directed learning plan for transitioning into Product Analytics,
 
 This roadmap is designed for someone with:
 - 10 years of UX design experience
-- A degree in Psychology
+- A degree in Psychology, including Research Methodology
 - Enterprise software support experience
 - Familiarity with HTML, CSS, JavaScript, React and product/support tools
 
